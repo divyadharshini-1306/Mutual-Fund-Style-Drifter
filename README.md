@@ -216,8 +216,7 @@ StyleDrift_Project/
 
 ##  Author
 
-**Divyadharshini** — ML Lead, IEEE CS Bangalore Chapter Internship 2026  
-B.Tech Computer Science · PES University, Electronic City, Bangalore  
+**Divyadharshini** — B.Tech Computer Science · PES University, Electronic City, Bangalore  
 GitHub: [@divyadharshini-1306](https://github.com/divyadharshini-1306)  
 Email: divyadharshini.mb.13@gmail.com
 
